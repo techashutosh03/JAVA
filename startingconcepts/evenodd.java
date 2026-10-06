@@ -1,3 +1,5 @@
+package startingconcepts;
+
 import java.util.Scanner;
 
 public class evenodd {
@@ -12,5 +14,6 @@ public class evenodd {
         } else {
             System.out.println("number is odd");
         }
+        sr.close();
     }
 }

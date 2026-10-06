@@ -1,3 +1,5 @@
+package startingconcepts;
+
 import java.util.Scanner;
 
 public class greatersmaller {
@@ -17,5 +19,7 @@ public class greatersmaller {
         } else {
             System.out.println("B is smaller");
         }
+        sr.close();
     }
 }
+

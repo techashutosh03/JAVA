@@ -1,3 +1,5 @@
+package startingconcepts;
+
 import java.util.Scanner;
 
 public class conditionstatament {
@@ -11,5 +13,6 @@ public class conditionstatament {
         } else {
             System.out.println("Not Adult");
         }
+        sc.close();
     }
 }

@@ -1,3 +1,5 @@
+package startingconcepts;
+
 // write a program to print pattern 
 // 
 // * 

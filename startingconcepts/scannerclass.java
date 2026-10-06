@@ -16,7 +16,7 @@ public class scannerclass {
 }
  */
 
-// Take 2 variables 'a' & 'b' and print their sum ?
+package startingconcepts;
 
 import java.util.Scanner;
 

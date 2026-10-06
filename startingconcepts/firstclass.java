@@ -1,3 +1,5 @@
+package startingconcepts;
+
 public class firstclass {
     public static void main(String[] args) {
         System.out.println("hello ewiokwf"); // ln use for chnsge the line
@@ -5,3 +7,4 @@ public class firstclass {
         // this line is used my \n to chnage the lines
     }
 }
+
